@@ -1,0 +1,55 @@
+html{ 
+	height:100%
+}
+h1{
+	font-weight: bold;
+	color:#eeeeee;
+	font-family: sans-serif; 
+}
+
+h1: hover{
+	
+	text-shadow: -1px 1px 20px #ffc, 1px -1px 20px #fff;
+    -webkit-transition: text-shadow 250ms linear 0s;
+    -moz-transition: text-shadow 250ms linear 0s;
+    -o-transition: text-shadow 250ms linear 0s;
+    transition: text-shadow 250ms linear 0s;
+}
+
+#body-text{
+	
+	margin-top: 65%
+	
+}
+
+h2{
+	border-style:ridge;
+	background-color: #3333ff;
+    font-weight:bold;
+	font-weight:95%;
+    font-family:Tahoma;
+    color: black;
+}
+h2{
+	border-style:ridge;
+	background-color: #3333ff;
+    font-weight:bold;
+	font-weight:95%;
+    font-family:Tahoma;
+    color: black;
+}
+
+h3{
+	border-style:ridge;
+	background-color:#eeeeee;
+	font-weight:bold;
+	font-size:90%;
+    font-family:Tahoma;
+    color: black;
+}
+body{
+ background-color: #bc2020 
+}
+
+
+
