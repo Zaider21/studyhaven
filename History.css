@@ -4,7 +4,7 @@ html{
 h1{
 	font-weight: bold;
 	color:#eeeeee;
-	font-family: sans-serif; 
+	font-family: 'Exo 2', sans-serif;
 }
 
 
@@ -15,7 +15,7 @@ h1{
 	border-style: ridge;
 	border-color: #645844;
 	font-weight: normal;
-	font-family: serif;
+	font-family: 'Rokkitt', serif;
 	font-size: 22px;
 }
 .Header {
